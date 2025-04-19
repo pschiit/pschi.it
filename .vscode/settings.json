@@ -1,0 +1,11 @@
+{
+    "javascript" :
+    {
+        "preferences": {
+            "quoteStyle": "single"
+        },
+        "suggest":{
+            "autoImports": false
+        }
+    }
+}
